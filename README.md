@@ -1,3 +1,3 @@
 - I’m @Z4fyX
-- I’m currently learning java
+- I’m currently learning Java, JavaScript and PHP
 - Pronouns: they/he
